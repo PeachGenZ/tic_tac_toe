@@ -1,7 +1,8 @@
-package com.peachgenz.tictactoe
+package com.peachgenz.tictactoe.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.peachgenz.tictactoe.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
